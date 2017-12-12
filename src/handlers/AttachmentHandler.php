@@ -13,7 +13,7 @@
 namespace yongtiger\attachment\handlers;
 
 use Yii;
-use yongtiger\attachable\models\Attachment;
+use yongtiger\attachment\models\Attachment;
 
 /**
  * Attachment Handler
