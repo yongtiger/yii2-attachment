@@ -10,7 +10,7 @@
  * @license     http://opensource.org/licenses/MIT
  */
 
-namespace yongtiger\attachable\models;
+namespace yongtiger\attachment\models;
 
 use Yii;
 use yii\db\ActiveRecord;
